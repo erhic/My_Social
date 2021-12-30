@@ -24,3 +24,16 @@
     max-height: 30px;
     border-radius: 50%;
 }
+
+.link {
+    text-decoration-line: none;
+    color: black;
+    line-height: 2.0rem;
+    font-size: large;
+    font-weight: 400;
+}
+
+#shortlink {
+    margin-right: 10px;
+    font-weight: bold;
+}
