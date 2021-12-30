@@ -37,3 +37,7 @@
     margin-right: 10px;
     font-weight: bold;
 }
+
+#inmindcard {
+    border-bottom: 1px solid rgb(194, 189, 189);
+}
