@@ -1,0 +1,26 @@
+/* setting the margin on left of input in header to round */
+
+#search_input_header1 {
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    background-color: white;
+    border-right: 2px solid white;
+}
+
+#search_input_header2 {
+    border-top-right-radius: 90%;
+    border-bottom-right-radius: 90%;
+    background-color: white;
+    border-left: 2px solid white;
+}
+
+#search_input_header {
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+}
+
+#badge {
+    max-width: 40px;
+    max-height: 30px;
+    border-radius: 50%;
+}
